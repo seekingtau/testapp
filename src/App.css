@@ -468,8 +468,8 @@ body {
   position: absolute;
   color: #f2f7fa;
   height: 23px;
-  width: 241px;
-  left: 490px;
+  width: 280px;
+  left: 460px;
   top: 140px;
   border-radius: nullpx;
   font-family: Space Grotesk;
@@ -485,7 +485,7 @@ body {
   color: #f2f7fa;
   height: 23px;
   width: 353px;
-  left: 424px;
+  left: 420px;
   top: 185px;
   border-radius: nullpx;
   font-family: Space Grotesk;
@@ -497,43 +497,43 @@ body {
   text-align: center;
 }
 #launch--twitter {
-  background-image: url(./images/twitter-round.svg);
+  background-image: url(./images/twitter-color.svg);
   background-size: cover;
   position: absolute;
   height: 40px;
   width: 40px;
-  left: 480px;
+  left: 470px;
   top: 250px;
   border-radius: 10px;
 }
 #launch--medium {
-  background-image: url(./images/medium.svg);
+  background-image: url(./images/medium-logo-white-on-black.png);
   background-size: cover;
   position: absolute;
   height: 40px;
   width: 40px;
-  left: 550px;
+  left: 535px;
   top: 250px;
   border-radius: 10px;
 }
 #launch--telegram {
-  background-image: url(./images/telegram-black.svg);
+  background-image: url(./images/telegram.svg);
   background-size: cover;
   position: absolute;
   height: 40px;
   width: 40px;
-  left: 620px;
+  left: 610px;
   top: 250px;
   border-radius: 10px;
 }
 
 #launch--discord {
-  background-image: url(./images/logo-discord.svg);
+  background-image: url(./images/discord.svg);
   background-size: cover;
   position: absolute;
   height: 40px;
   width: 40px;
-  left: 690px;
+  left: 680px;
   top: 250px;
   border-radius: 10px;
 }
@@ -1036,8 +1036,8 @@ body {
     position: absolute;
     color: #f2f7fa;
     height: 23px;
-    width: 241px;
-    left: 590px;
+    width: 280px;
+    left: 570px;
     top: 140px;
     border-radius: nullpx;
     font-family: Space Grotesk;
@@ -1072,16 +1072,16 @@ body {
     top: 250px;
     border-radius: 10px;
     background-color: transparent;
-    background-image: url(./images/twitter-round.svg);
+    background-image: url(./images/twitter-color.svg);
   }
   #launch--medium {
     position: absolute;
     height: 40px;
     width: 40px;
-    left: 640px;
+    left: 635px;
     top: 250px;
     border-radius: 10px;
-    background-image: url(./images/medium.svg);
+    background-image: url(./images/medium-logo-white-on-black.png);
     background-color: transparent;
   }
   #launch--telegram {
@@ -1092,7 +1092,7 @@ body {
     top: 250px;
     border-radius: 10px;
     background-color: transparent;
-    background-image: url(./images/telegram-black.svg);
+    background-image: url(./images/telegram.svg);
   }
   #launch--discord {
     position: absolute;
@@ -1102,7 +1102,7 @@ body {
     top: 250px;
     border-radius: 10px;
     background-color: transparent;
-    background-image: url(./images/logo-discord.svg);
+    background-image: url(./images/discord.svg);
   }
   #launch--copyright {
     color: #979797;
@@ -1620,7 +1620,7 @@ body {
     position: absolute;
     color: #f2f7fa;
     height: 138px;
-    width: 151px;
+    width: 170px;
     left: 30px;
     top: 150px;
     font-family: Space Grotesk;
@@ -1638,7 +1638,6 @@ body {
     width: 99px;
     left: 20px;
     border-radius: nullpx;
-
     top: 220px;
     border-radius: nullpx;
     font-family: Space Grotesk;
@@ -1651,7 +1650,7 @@ body {
   }
   #launch--twitter {
     position: absolute;
-    background-image: url(./images/twitter-round.svg);
+    background-image: url(./images/twitter-color.svg);
     background-size: cover;
     height: 30px;
     width: 30px;
@@ -1661,16 +1660,16 @@ body {
   }
   #launch--medium {
     position: absolute;
-    background-image: url(./images/medium.svg);
+    background-image: url(./images/medium-logo-white-on-black.png);
     background-size: cover;
     height: 30px;
     width: 30px;
-    left: 90px;
+    left: 85px;
     top: 330px;
     border-radius: 10px;
   }
   #launch--telegram {
-    background-image: url(./images/telegram-black.svg);
+    background-image: url(./images/telegram.svg);
     background-size: cover;
     position: absolute;
     height: 30px;
@@ -1682,7 +1681,7 @@ body {
 
   #launch--discord {
     position: absolute;
-    background-image: url(./images/logo-discord.svg);
+    background-image: url(./images/discord.svg);
     background-size: cover;
     height: 30px;
     width: 30px;
